@@ -23,6 +23,7 @@
 		3F204A6B2A3B524F00530FEB /* CreateUsernameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F204A6A2A3B524F00530FEB /* CreateUsernameView.swift */; };
 		3F204A6D2A3B554700530FEB /* CreatePasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F204A6C2A3B554700530FEB /* CreatePasswordView.swift */; };
 		3F204A6F2A3B58E000530FEB /* CompleteSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F204A6E2A3B58E000530FEB /* CompleteSignUpView.swift */; };
+		3F204A712A3C7B0300530FEB /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F204A702A3C7B0300530FEB /* User.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -43,6 +44,7 @@
 		3F204A6A2A3B524F00530FEB /* CreateUsernameView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateUsernameView.swift; sourceTree = "<group>"; };
 		3F204A6C2A3B554700530FEB /* CreatePasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePasswordView.swift; sourceTree = "<group>"; };
 		3F204A6E2A3B58E000530FEB /* CompleteSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteSignUpView.swift; sourceTree = "<group>"; };
+		3F204A702A3C7B0300530FEB /* User.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 		3F204A4A2A3AF06F00530FEB /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				3F204A702A3C7B0300530FEB /* User.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -285,6 +288,7 @@
 				3F204A672A3B36C000530FEB /* AddEmailView.swift in Sources */,
 				3F204A6B2A3B524F00530FEB /* CreateUsernameView.swift in Sources */,
 				3F204A6F2A3B58E000530FEB /* CompleteSignUpView.swift in Sources */,
+				3F204A712A3C7B0300530FEB /* User.swift in Sources */,
 				3F204A632A3B2A7F00530FEB /* SearchView.swift in Sources */,
 				3F204A692A3B513800530FEB /* IGTextFieldModifier.swift in Sources */,
 				3F204A5D2A3AF9E200530FEB /* UserStatView.swift in Sources */,
